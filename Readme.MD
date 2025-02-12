@@ -1,3 +1,7 @@
+# Javascript
+
+Learning Javascript
+
 # Gamelet
 
 A starter program for writing games in JavaScript
